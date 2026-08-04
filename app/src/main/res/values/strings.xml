@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">مرسل الرسائل للعملاء</string>
+    <string name="compose_title">كتابة الرسالة والإرسال</string>
+    <string name="select_all">تحديد الكل</string>
+    <string name="next">التالي</string>
+    <string name="selected_count">تم اختيار %1$d جهة اتصال</string>
+    <string name="message_hint">اكتب نص الرسالة هنا... يمكنك استخدام {name} ليتم استبدالها باسم العميل تلقائياً</string>
+    <string name="delay_hint">التأخير بين كل رسالة (بالثواني)</string>
+    <string name="start_sending">بدء الإرسال</string>
+    <string name="stop_sending">إيقاف الإرسال</string>
+    <string name="permission_required">التطبيق يحتاج صلاحية إرسال الرسائل وقراءة جهات الاتصال للعمل</string>
+    <string name="grant_permission">منح الصلاحية</string>
+    <string name="notification_channel_name">إرسال الرسائل الجماعي</string>
+    <string name="search_hint">بحث عن جهة اتصال</string>
+</resources>
